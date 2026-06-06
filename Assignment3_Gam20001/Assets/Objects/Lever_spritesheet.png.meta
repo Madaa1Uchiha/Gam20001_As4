@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 956865fe053efab4d8435f11c03078dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1897484559374776284
+    second: Lever_spritesheet_0
+  - first:
+      213: -1947586348096047652
+    second: Lever_spritesheet_1
+  - first:
+      213: -8845479149157505906
+    second: Lever_spritesheet_2
+  - first:
+      213: 6845683259757525033
+    second: Lever_spritesheet_3
+  - first:
+      213: -8496284956072990858
+    second: Lever_spritesheet_4
+  - first:
+      213: -7669025432071528551
+    second: Lever_spritesheet_5
+  - first:
+      213: 4371826114544909335
+    second: Lever_spritesheet_6
+  - first:
+      213: 8310402360028359043
+    second: Lever_spritesheet_7
+  - first:
+      213: 7968701941280489273
+    second: Lever_spritesheet_8
+  - first:
+      213: 3788016612589680361
+    second: Lever_spritesheet_9
+  - first:
+      213: 1660227734243591777
+    second: Lever_spritesheet_10
+  - first:
+      213: -5676281589552870083
+    second: Lever_spritesheet_11
+  - first:
+      213: 2000231936694743055
+    second: Lever_spritesheet_12
+  - first:
+      213: -5832212346079039507
+    second: Lever_spritesheet_13
+  - first:
+      213: -4314103652975729462
+    second: Lever_spritesheet_14
+  - first:
+      213: 3107862344761523910
+    second: Lever_spritesheet_15
+  - first:
+      213: -6287612857870890318
+    second: Lever_spritesheet_16
+  - first:
+      213: 3273553615124464215
+    second: Lever_spritesheet_17
+  - first:
+      213: -7402008676311369238
+    second: Lever_spritesheet_18
+  - first:
+      213: -3991596573118970700
+    second: Lever_spritesheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lever_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1615
+        width: 403
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288da7b8d7caa5e0800000000000000
+      internalID: -1897484559374776284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1615
+        width: 387
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b5500988c8f4e0800000000000000
+      internalID: -1947586348096047652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1615
+        width: 387
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84a756449b8e3580800000000000000
+      internalID: -8845479149157505906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1615
+        width: 387
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9287fae97a0c00f50800000000000000
+      internalID: 6845683259757525033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1615
+        width: 387
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67726c209d1271a80800000000000000
+      internalID: -8496284956072990858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1083
+        width: 387
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f90f37006229590800000000000000
+      internalID: -7669025432071528551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1083
+        width: 387
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb93130b8dbac30800000000000000
+      internalID: 4371826114544909335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1083
+        width: 387
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389ee028aea745370800000000000000
+      internalID: 8310402360028359043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1083
+        width: 387
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f3df21234869e60800000000000000
+      internalID: 7968701941280489273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1083
+        width: 387
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6bfa41a0db19430800000000000000
+      internalID: 3788016612589680361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 551
+        width: 387
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16647d9f3505a0710800000000000000
+      internalID: 1660227734243591777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 551
+        width: 387
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8c91f7fbc931b0800000000000000
+      internalID: -5676281589552870083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 551
+        width: 387
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f417495042cb10800000000000000
+      internalID: 2000231936694743055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 551
+        width: 387
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defaf4985c1df0fa0800000000000000
+      internalID: -5832212346079039507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 551
+        width: 387
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4aa20b5993124c0800000000000000
+      internalID: -4314103652975729462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 389
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb25e1658512b20800000000000000
+      internalID: 3107862344761523910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 19
+        width: 405
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4d614b69edb8a0800000000000000
+      internalID: -6287612857870890318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 19
+        width: 421
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75280be3baffd6d20800000000000000
+      internalID: 3273553615124464215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 19
+        width: 436
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9f9109358c64990800000000000000
+      internalID: -7402008676311369238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lever_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 19
+        width: 449
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c39ca0100b98c0800000000000000
+      internalID: -3991596573118970700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lever_spritesheet_0: -1897484559374776284
+      Lever_spritesheet_1: -1947586348096047652
+      Lever_spritesheet_10: 1660227734243591777
+      Lever_spritesheet_11: -5676281589552870083
+      Lever_spritesheet_12: 2000231936694743055
+      Lever_spritesheet_13: -5832212346079039507
+      Lever_spritesheet_14: -4314103652975729462
+      Lever_spritesheet_15: 3107862344761523910
+      Lever_spritesheet_16: -6287612857870890318
+      Lever_spritesheet_17: 3273553615124464215
+      Lever_spritesheet_18: -7402008676311369238
+      Lever_spritesheet_19: -3991596573118970700
+      Lever_spritesheet_2: -8845479149157505906
+      Lever_spritesheet_3: 6845683259757525033
+      Lever_spritesheet_4: -8496284956072990858
+      Lever_spritesheet_5: -7669025432071528551
+      Lever_spritesheet_6: 4371826114544909335
+      Lever_spritesheet_7: 8310402360028359043
+      Lever_spritesheet_8: 7968701941280489273
+      Lever_spritesheet_9: 3788016612589680361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
