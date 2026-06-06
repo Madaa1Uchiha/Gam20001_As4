@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 1004052a927e76f4baa5a14daecdcc20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2350100546341730975
+    second: Gloomy_Spritesheet_0
+  - first:
+      213: 130030107376964195
+    second: Gloomy_Spritesheet_1
+  - first:
+      213: 5936282975049033902
+    second: Gloomy_Spritesheet_2
+  - first:
+      213: -5206946432037898630
+    second: Gloomy_Spritesheet_3
+  - first:
+      213: -3708149768306569175
+    second: Gloomy_Spritesheet_4
+  - first:
+      213: 3893961253358731993
+    second: Gloomy_Spritesheet_5
+  - first:
+      213: -3923010333983186376
+    second: Gloomy_Spritesheet_6
+  - first:
+      213: 598808731515380376
+    second: Gloomy_Spritesheet_7
+  - first:
+      213: -591821806854462361
+    second: Gloomy_Spritesheet_8
+  - first:
+      213: -3052279846399001360
+    second: Gloomy_Spritesheet_9
+  - first:
+      213: 3791334124693031794
+    second: Gloomy_Spritesheet_10
+  - first:
+      213: 2107041927963267586
+    second: Gloomy_Spritesheet_11
+  - first:
+      213: 294317336935764738
+    second: Gloomy_Spritesheet_12
+  - first:
+      213: 6969327784337456400
+    second: Gloomy_Spritesheet_13
+  - first:
+      213: 5143045716273400062
+    second: Gloomy_Spritesheet_14
+  - first:
+      213: -6031053406252460467
+    second: Gloomy_Spritesheet_15
+  - first:
+      213: 5195328100211595951
+    second: Gloomy_Spritesheet_16
+  - first:
+      213: -6746454125641739658
+    second: Gloomy_Spritesheet_17
+  - first:
+      213: 136467742943735798
+    second: Gloomy_Spritesheet_18
+  - first:
+      213: 2616302116562792724
+    second: Gloomy_Spritesheet_19
+  - first:
+      213: 3996962826424095041
+    second: Gloomy_Spritesheet_20
+  - first:
+      213: 8274855192545216744
+    second: Gloomy_Spritesheet_21
+  - first:
+      213: 1657178266093681230
+    second: Gloomy_Spritesheet_22
+  - first:
+      213: 1232333952472723955
+    second: Gloomy_Spritesheet_23
+  - first:
+      213: -8426909858401755673
+    second: Gloomy_Spritesheet_24
+  - first:
+      213: -4827855775588462690
+    second: Gloomy_Spritesheet_25
+  - first:
+      213: -665058195968756488
+    second: Gloomy_Spritesheet_26
+  - first:
+      213: -3644584685965232311
+    second: Gloomy_Spritesheet_27
+  - first:
+      213: -3674298109960256000
+    second: Gloomy_Spritesheet_28
+  - first:
+      213: -641673796841249658
+    second: Gloomy_Spritesheet_29
+  - first:
+      213: 1391383068322831045
+    second: Gloomy_Spritesheet_30
+  - first:
+      213: -6653896573634039870
+    second: Gloomy_Spritesheet_31
+  - first:
+      213: -6760624034248406778
+    second: Gloomy_Spritesheet_32
+  - first:
+      213: 3385827141230595841
+    second: Gloomy_Spritesheet_33
+  - first:
+      213: -4108015545146748000
+    second: Gloomy_Spritesheet_34
+  - first:
+      213: -8202322401341843083
+    second: Gloomy_Spritesheet_35
+  - first:
+      213: -6599078321554921175
+    second: Gloomy_Spritesheet_36
+  - first:
+      213: -3887074641878131075
+    second: Gloomy_Spritesheet_37
+  - first:
+      213: 3440536525192799792
+    second: Gloomy_Spritesheet_38
+  - first:
+      213: -6376495304008957624
+    second: Gloomy_Spritesheet_39
+  - first:
+      213: -7505485792421262429
+    second: Gloomy_Spritesheet_40
+  - first:
+      213: 5401463266203025836
+    second: Gloomy_Spritesheet_41
+  - first:
+      213: 2174162124429514010
+    second: Gloomy_Spritesheet_42
+  - first:
+      213: -2586349639040592970
+    second: Gloomy_Spritesheet_43
+  - first:
+      213: 6151648695436127744
+    second: Gloomy_Spritesheet_44
+  - first:
+      213: -5604185834230606286
+    second: Gloomy_Spritesheet_45
+  - first:
+      213: 2562489573007588218
+    second: Gloomy_Spritesheet_46
+  - first:
+      213: 3912581120992813098
+    second: Gloomy_Spritesheet_47
+  - first:
+      213: 3494443049181166111
+    second: Gloomy_Spritesheet_48
+  - first:
+      213: -2746728044427613161
+    second: Gloomy_Spritesheet_49
+  - first:
+      213: -7346390891940570546
+    second: Gloomy_Spritesheet_50
+  - first:
+      213: -4872244907075248324
+    second: Gloomy_Spritesheet_51
+  - first:
+      213: -3276812040493586366
+    second: Gloomy_Spritesheet_52
+  - first:
+      213: 740635312562961233
+    second: Gloomy_Spritesheet_53
+  - first:
+      213: -1746087493174983253
+    second: Gloomy_Spritesheet_54
+  - first:
+      213: -341267428471381834
+    second: Gloomy_Spritesheet_55
+  - first:
+      213: 3712758396383171901
+    second: Gloomy_Spritesheet_56
+  - first:
+      213: -8962233632312538924
+    second: Gloomy_Spritesheet_57
+  - first:
+      213: -3388561314095708567
+    second: Gloomy_Spritesheet_58
+  - first:
+      213: -4120719664654437831
+    second: Gloomy_Spritesheet_59
+  - first:
+      213: 2309918613044431011
+    second: Gloomy_Spritesheet_60
+  - first:
+      213: 3909766444950942709
+    second: Gloomy_Spritesheet_61
+  - first:
+      213: -6348610720071459435
+    second: Gloomy_Spritesheet_62
+  - first:
+      213: 2386048592712021980
+    second: Gloomy_Spritesheet_63
+  - first:
+      213: -8496345129029025988
+    second: Gloomy_Spritesheet_64
+  - first:
+      213: 7968295874822863234
+    second: Gloomy_Spritesheet_65
+  - first:
+      213: 3563329499245308824
+    second: Gloomy_Spritesheet_66
+  - first:
+      213: 7465814500779957348
+    second: Gloomy_Spritesheet_67
+  - first:
+      213: -8805038769224057254
+    second: Gloomy_Spritesheet_68
+  - first:
+      213: 1306090061641556408
+    second: Gloomy_Spritesheet_69
+  - first:
+      213: 3943338261328926633
+    second: Gloomy_Spritesheet_70
+  - first:
+      213: 3149004452110609295
+    second: Gloomy_Spritesheet_71
+  - first:
+      213: -6800230136033358385
+    second: Gloomy_Spritesheet_72
+  - first:
+      213: -1140252668884021594
+    second: Gloomy_Spritesheet_73
+  - first:
+      213: -5215395989704521428
+    second: Gloomy_Spritesheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1630
+        width: 414
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16589d42104c26fd0800000000000000
+      internalID: -2350100546341730975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1630
+        width: 414
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3625f4891b5fdc100800000000000000
+      internalID: 130030107376964195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1631
+        width: 428
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea82ffdf9e9e16250800000000000000
+      internalID: 5936282975049033902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1631
+        width: 428
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76b4e1cec53db7b0800000000000000
+      internalID: -5206946432037898630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1628
+        width: 443
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920d32eae610a8cc0800000000000000
+      internalID: -3708149768306569175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1628
+        width: 443
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2059bf0212a0630800000000000000
+      internalID: 3893961253358731993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1629
+        width: 451
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832eeb0e2eaae89c0800000000000000
+      internalID: -3923010333983186376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1629
+        width: 451
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89260626e556f4800800000000000000
+      internalID: 598808731515380376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 1626
+        width: 454
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7642c18c33d69c7f0800000000000000
+      internalID: -591821806854462361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 1626
+        width: 454
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcbd40c6af14a5d0800000000000000
+      internalID: -3052279846399001360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 1629
+        width: 451
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b052f8c468d9430800000000000000
+      internalID: 3791334124693031794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 1629
+        width: 451
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202da1b4877bd3d10800000000000000
+      internalID: 2107041927963267586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 1628
+        width: 443
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2039b4ffe00a51400800000000000000
+      internalID: 294317336935764738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6708
+        y: 1628
+        width: 443
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db1bcd1b608b060800000000000000
+      internalID: 6969327784337456400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 1631
+        width: 428
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8021674d4cf5740800000000000000
+      internalID: 5143045716273400062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 7742
+        y: 1631
+        width: 428
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4699e281e46d4ca0800000000000000
+      internalID: -6031053406252460467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 8258
+        y: 1630
+        width: 414
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa97b09163891840800000000000000
+      internalID: 5195328100211595951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 8771
+        y: 1630
+        width: 414
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672d7ab87b7cf52a0800000000000000
+      internalID: -6746454125641739658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1096
+        width: 414
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffe57d60b4d4e100800000000000000
+      internalID: 136467742943735798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1096
+        width: 414
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f3dac9e8fe4420800000000000000
+      internalID: 2616302116562792724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1099
+        width: 445
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14113798380187730800000000000000
+      internalID: 3996962826424095041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1099
+        width: 445
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8447f94f036d270800000000000000
+      internalID: 8274855192545216744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1097
+        width: 465
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4af2085ada7ff610800000000000000
+      internalID: 1657178266093681230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1097
+        width: 465
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13ac953312a1110800000000000000
+      internalID: 1232333952472723955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 1097
+        width: 465
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd9b7a12a9d0b80800000000000000
+      internalID: -8426909858401755673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1097
+        width: 465
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f4b3d40c2000db0800000000000000
+      internalID: -4827855775588462690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 1096
+        width: 462
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f15a281d35c6f0800000000000000
+      internalID: -665058195968756488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 1096
+        width: 462
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947b637b985db6dc0800000000000000
+      internalID: -3644584685965232311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5186
+        y: 1096
+        width: 441
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0060ee41655420dc0800000000000000
+      internalID: -3674298109960256000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 1096
+        width: 441
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e99dd4115817f0800000000000000
+      internalID: -641673796841249658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 6206
+        y: 1096
+        width: 414
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca10ed578f2f4310800000000000000
+      internalID: 1391383068322831045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 6719
+        y: 1096
+        width: 414
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfaa54f15c98a3a0800000000000000
+      internalID: -6653896573634039870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 1096
+        width: 414
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609c7aa92407d22a0800000000000000
+      internalID: -6760624034248406778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 7745
+        y: 1096
+        width: 414
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f0de798dfdcfe20800000000000000
+      internalID: 3385827141230595841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 561
+        width: 419
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3debb70a56df6c0800000000000000
+      internalID: -4108015545146748000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 561
+        width: 419
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5795ac6db3f7b2e80800000000000000
+      internalID: -8202322401341843083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 558
+        width: 451
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ecbeda3d5b64a0800000000000000
+      internalID: -6599078321554921175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 558
+        width: 451
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7edc6335365e0ac0800000000000000
+      internalID: -3887074641878131075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 560
+        width: 319
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036afdcadbd3fbf20800000000000000
+      internalID: 3440536525192799792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 560
+        width: 319
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841899c1e432287a0800000000000000
+      internalID: -6376495304008957624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 618
+        width: 250
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab4df3007827d790800000000000000
+      internalID: -7505485792421262429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 618
+        width: 250
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14a51f83ad5fa40800000000000000
+      internalID: 5401463266203025836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 703
+        width: 279
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15dab6deec2c2e10800000000000000
+      internalID: 2174162124429514010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 703
+        width: 279
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b39604d4b07b1cd0800000000000000
+      internalID: -2586349639040592970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5261
+        y: 704
+        width: 294
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e277a45eb0f5550800000000000000
+      internalID: 6151648695436127744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 704
+        width: 294
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236986f0daee932b0800000000000000
+      internalID: -5604185834230606286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 704
+        width: 294
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b72c3a0bacf8320800000000000000
+      internalID: 2562489573007588218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 704
+        width: 294
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a202dafbcc74c4630800000000000000
+      internalID: 3912581120992813098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 629
+        width: 272
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab64a5071ce7030800000000000000
+      internalID: 3494443049181166111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 629
+        width: 272
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ce9497569a1e9d0800000000000000
+      internalID: -2746728044427613161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 8360
+        y: 600
+        width: 250
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a97b818606c0a90800000000000000
+      internalID: -7346390891940570546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 8873
+        y: 600
+        width: 250
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd21f321f426cb0800000000000000
+      internalID: -4872244907075248324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 9274
+        y: 560
+        width: 443
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24828aa7fcc6682d0800000000000000
+      internalID: -3276812040493586366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 9787
+        y: 560
+        width: 443
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bfc6984e3474a00800000000000000
+      internalID: 740635312562961233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 10285
+        y: 559
+        width: 480
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba58d861da6a4c7e0800000000000000
+      internalID: -1746087493174983253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 10798
+        y: 559
+        width: 480
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b06d88f413934bf0800000000000000
+      internalID: -341267428471381834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 11333
+        y: 561
+        width: 419
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359449271e568330800000000000000
+      internalID: 3712758396383171901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 11846
+        y: 561
+        width: 419
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c3ffceffbf9380800000000000000
+      internalID: -8962233632312538924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 416
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c1bd207969f0d0800000000000000
+      internalID: -3388561314095708567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 28
+        width: 416
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9323e492c4340d6c0800000000000000
+      internalID: -4120719664654437831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 23
+        width: 438
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a883967dba7e0020800000000000000
+      internalID: 2309918613044431011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 23
+        width: 438
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3fa0aedd7424630800000000000000
+      internalID: 3909766444950942709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 22
+        width: 456
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d57ecbf2435e7a0800000000000000
+      internalID: -6348610720071459435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 22
+        width: 456
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7bb61ad82fc1120800000000000000
+      internalID: 2386048592712021980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 22
+        width: 467
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fba17ee1be61a80800000000000000
+      internalID: -8496345129029025988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 22
+        width: 467
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289f60c51e2159e60800000000000000
+      internalID: 7968295874822863234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 21
+        width: 461
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bef2cdc4d737130800000000000000
+      internalID: 3563329499245308824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 21
+        width: 461
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c13fd9bb6eb9760800000000000000
+      internalID: 7465814500779957348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 21
+        width: 461
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e7bd6f3e73ec580800000000000000
+      internalID: -8805038769224057254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 25
+        width: 421
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b120d8bdf9202210800000000000000
+      internalID: 1306090061641556408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 6223
+        y: 25
+        width: 421
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a797b7814d89b630800000000000000
+      internalID: 3943338261328926633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 22
+        width: 417
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b2d247dd283bb20800000000000000
+      internalID: 3149004452110609295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 7245
+        y: 22
+        width: 417
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd43de68bab0a1a0800000000000000
+      internalID: -6800230136033358385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 7743
+        y: 28
+        width: 416
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae0afc2d320d20f0800000000000000
+      internalID: -1140252668884021594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gloomy_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 8256
+        y: 28
+        width: 416
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c294aaecaf03f97b0800000000000000
+      internalID: -5215395989704521428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gloomy_Spritesheet_0: -2350100546341730975
+      Gloomy_Spritesheet_1: 130030107376964195
+      Gloomy_Spritesheet_10: 3791334124693031794
+      Gloomy_Spritesheet_11: 2107041927963267586
+      Gloomy_Spritesheet_12: 294317336935764738
+      Gloomy_Spritesheet_13: 6969327784337456400
+      Gloomy_Spritesheet_14: 5143045716273400062
+      Gloomy_Spritesheet_15: -6031053406252460467
+      Gloomy_Spritesheet_16: 5195328100211595951
+      Gloomy_Spritesheet_17: -6746454125641739658
+      Gloomy_Spritesheet_18: 136467742943735798
+      Gloomy_Spritesheet_19: 2616302116562792724
+      Gloomy_Spritesheet_2: 5936282975049033902
+      Gloomy_Spritesheet_20: 3996962826424095041
+      Gloomy_Spritesheet_21: 8274855192545216744
+      Gloomy_Spritesheet_22: 1657178266093681230
+      Gloomy_Spritesheet_23: 1232333952472723955
+      Gloomy_Spritesheet_24: -8426909858401755673
+      Gloomy_Spritesheet_25: -4827855775588462690
+      Gloomy_Spritesheet_26: -665058195968756488
+      Gloomy_Spritesheet_27: -3644584685965232311
+      Gloomy_Spritesheet_28: -3674298109960256000
+      Gloomy_Spritesheet_29: -641673796841249658
+      Gloomy_Spritesheet_3: -5206946432037898630
+      Gloomy_Spritesheet_30: 1391383068322831045
+      Gloomy_Spritesheet_31: -6653896573634039870
+      Gloomy_Spritesheet_32: -6760624034248406778
+      Gloomy_Spritesheet_33: 3385827141230595841
+      Gloomy_Spritesheet_34: -4108015545146748000
+      Gloomy_Spritesheet_35: -8202322401341843083
+      Gloomy_Spritesheet_36: -6599078321554921175
+      Gloomy_Spritesheet_37: -3887074641878131075
+      Gloomy_Spritesheet_38: 3440536525192799792
+      Gloomy_Spritesheet_39: -6376495304008957624
+      Gloomy_Spritesheet_4: -3708149768306569175
+      Gloomy_Spritesheet_40: -7505485792421262429
+      Gloomy_Spritesheet_41: 5401463266203025836
+      Gloomy_Spritesheet_42: 2174162124429514010
+      Gloomy_Spritesheet_43: -2586349639040592970
+      Gloomy_Spritesheet_44: 6151648695436127744
+      Gloomy_Spritesheet_45: -5604185834230606286
+      Gloomy_Spritesheet_46: 2562489573007588218
+      Gloomy_Spritesheet_47: 3912581120992813098
+      Gloomy_Spritesheet_48: 3494443049181166111
+      Gloomy_Spritesheet_49: -2746728044427613161
+      Gloomy_Spritesheet_5: 3893961253358731993
+      Gloomy_Spritesheet_50: -7346390891940570546
+      Gloomy_Spritesheet_51: -4872244907075248324
+      Gloomy_Spritesheet_52: -3276812040493586366
+      Gloomy_Spritesheet_53: 740635312562961233
+      Gloomy_Spritesheet_54: -1746087493174983253
+      Gloomy_Spritesheet_55: -341267428471381834
+      Gloomy_Spritesheet_56: 3712758396383171901
+      Gloomy_Spritesheet_57: -8962233632312538924
+      Gloomy_Spritesheet_58: -3388561314095708567
+      Gloomy_Spritesheet_59: -4120719664654437831
+      Gloomy_Spritesheet_6: -3923010333983186376
+      Gloomy_Spritesheet_60: 2309918613044431011
+      Gloomy_Spritesheet_61: 3909766444950942709
+      Gloomy_Spritesheet_62: -6348610720071459435
+      Gloomy_Spritesheet_63: 2386048592712021980
+      Gloomy_Spritesheet_64: -8496345129029025988
+      Gloomy_Spritesheet_65: 7968295874822863234
+      Gloomy_Spritesheet_66: 3563329499245308824
+      Gloomy_Spritesheet_67: 7465814500779957348
+      Gloomy_Spritesheet_68: -8805038769224057254
+      Gloomy_Spritesheet_69: 1306090061641556408
+      Gloomy_Spritesheet_7: 598808731515380376
+      Gloomy_Spritesheet_70: 3943338261328926633
+      Gloomy_Spritesheet_71: 3149004452110609295
+      Gloomy_Spritesheet_72: -6800230136033358385
+      Gloomy_Spritesheet_73: -1140252668884021594
+      Gloomy_Spritesheet_74: -5215395989704521428
+      Gloomy_Spritesheet_8: -591821806854462361
+      Gloomy_Spritesheet_9: -3052279846399001360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
